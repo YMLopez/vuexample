@@ -1,6 +1,6 @@
 # vuexample
 
-> A Vue.js project
+> A Vue.js project: A vue example.
 
 ## Build Setup
 
@@ -28,4 +28,4 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-a vue example.
+
